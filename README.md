@@ -1,0 +1,2 @@
+# ChannelResetBOT
+チャンネルをリセットするDiscordBOT
