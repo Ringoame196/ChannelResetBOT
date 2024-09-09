@@ -9,6 +9,10 @@ https://github.com/user-attachments/assets/e0bc7e69-a8bf-423c-ae82-b7b6954ec7fd
 /resetを実行すると、実行したチャンネルの「ピン留めしているメッセージ以外の削除」「リアクションの削除」を実行します <br>
 1回で削除されるメッセージは80メッセージまでです
 
+## 起動
+- 起動コマンド「java -jar bot.jar」
+- 初期起動時にtoken.txtとactivity.txtが生成される それぞれBOTのtoken アクティビティに表示させたい文字をいれ もう一度起動
+
 ## コマンド
 - /test - botの起動確認
 - /reset - リセットをする
