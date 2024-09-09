@@ -1,6 +1,10 @@
 # ChannelResetBOT
 チャンネルをリセットするDiscordBOT
 
+
+https://github.com/user-attachments/assets/e0bc7e69-a8bf-423c-ae82-b7b6954ec7fd
+
+
 ## 概要
 /resetを実行すると、実行したチャンネルの「ピン留めしているメッセージ以外の削除」「リアクションの削除」を実行します <br>
 1回で削除されるメッセージは80メッセージまでです
